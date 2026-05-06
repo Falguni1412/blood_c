@@ -1,4 +1,4 @@
-# Blood C 🩸
+# Onine Blood Donation and Emergency Connect App 🩸
 
 **Blood C** is a modern, feature-rich Flutter application designed to bridge the gap between blood donors and those in urgent need. With a focus on speed, reliability, and community, Blood C provides a seamless platform for managing blood requests, finding nearby donation camps, and facilitating real-time communication.
 
